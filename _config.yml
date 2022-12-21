@@ -7,7 +7,7 @@ title:            Marcos Ramon
 tagline:          'Professor de filosofia'
 description:      'Professor de <a href="http://hyde.getpoole.com" target="_blank">Filosofia</a>, pesquisando estética e cibercultura'
 url:              https://marcosramon.net
-baseurl:          '/'
+baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
